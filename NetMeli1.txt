@@ -69,3 +69,5 @@ vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088?security=none&e
 vless://b6ecaebb-cfb8-4dd8-86d7-380a7285b687@185.143.233.120:443?path=%2Fws&security=tls&encryption=none&host=arv.multiscrape.ir&fp=chrome&type=ws&sni=arv.multiscrape.ir#Telegram%20%3A%20FarshidHUB%20%DA%AF%D8%B1%D9%88%D9%87%20%D9%85%D9%86%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D9%86%DA%AF%D9%87%E2%80%8C%20%D9%85%DB%8C%D8%AF%D8%A7%D8%B1%D9%85
 vless://063f79bf-b690-43bd-99d7-18fd0d0f03de@asia5.novahomedesigntips.com:54546?path=%2F&security=none&encryption=none&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FegFIvRfmDaCdL5Uk%2FODQuMjM1LjE2OS4yMzQ%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=UuhUHYygESDfgh.uYhJhGVgfCjgujhbUiLbVFdXDXM.XyZ&fp=randomized&type=ws&sni=UUHuhyYgESDfgh.UyHjhgvgFCjgujhBuILbVFDXdxM.xYZ#%40VConfing
+vless://2dc56709-0f44-4bef-bee8-41ab6e128904@nwarne.fast.hosting-ip.com:80?path=%2Fde%3Fed%3D1048&security=none&encryption=none&host=Shuposipet.com&type=ws#%F0%9F%9F%A1%20Telegram%3D%20%40Vless_config
+
