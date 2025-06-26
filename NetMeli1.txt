@@ -9,7 +9,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@2FreakConfig.usecharge.ir:443#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#Telegram%20%3A%20%40V2rayEnglish
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#Telegram%20%3A%20%40V2rayEnglish
-
 vless://freewireguard-telegram-channel@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=nushdaru.sohrab.com&type=xhttp#Telegram%20%3A%20%40v2ray_0_confing
 vless://freewireguard-telegram-channel@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&host=nushdaru.sohrab.com&type=xhttp#Telegram%20%3A%20%40V2rayEnglish
 vless://bab0379b-9dc3-441a-8e84-612f22ba837f@iri.punezism.top:33438?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram%20%3A%20%40V2rayEnglish
