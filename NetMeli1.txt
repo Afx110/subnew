@@ -60,10 +60,3 @@ vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=au
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#create_your_bot
 vless://3bebc077-0d92-4832-9ae4-c0820a673b9e@power.teampluss.ir:80?path=%2FPak91jqn-Mehskl.ir.shop.com%3Fed%3D2048&security=none&encryption=none&host=Salamlort.ir&type=ws#create_your_bot
 vless://6de0f74e-f5de-47e9-9baf-4bee5e3f8d0c@151.101.3.8:80?path=%2Fdownload&security=none&encryption=none&host=admin2.com&type=ws#%F0%9F%94%AETelegram%3D%20t.me%2FproSSH
-vless://464c401d-d4ec-42ea-878d-be73f68737a3@151.101.2.219:80?mode=auto&path=%2Flepingshop&security=none&encryption=none&host=lepingshop.global.ssl.fastly.net&type=xhttp#%F0%9F%94%AETelegram%3D%20t.me%2FproSSH
-vless://464c401d-d4ec-42ea-878d-be73f68737a3@151.101.2.219:80?mode=auto&path=%2Flepingshop&security=none&encryption=none&host=lepingshop.global.ssl.fastly.net&type=xhttp#%F0%9F%94%AETelegram%3D%20t.me%2FproSSH
-vless://464c401d-d4ec-42ea-878d-be73f68737a3@151.101.2.219:80?mode=auto&path=%2Flepingshop&security=none&encryption=none&host=lepingshop.global.ssl.fastly.net&type=xhttp#%F0%9F%94%AETelegram%3D%20t.me%2FproSSH
-vless://ac420431-c00d-4094-88dd-7f5330bd072f@tamizokatamizveryclearifiedtamiz.ivy-net.ir:8080?path=%2Fd3d3LdcscbesjmytuyhkljklasjdflsiopnoipjweqrmoopnaspdfupqewoijweopqwerrjkiymkuhewqcbqiknqnuiqsjaccwewfcscscsvrfvdrwasswqrfegthytjukytrtqojdiqisoqxmlyYW5ob3N0LmNvbQ%3D%3D%3Fed%3D2560&security=none&encryption=none&host=sabzfioqwjepfjqwepodqwoenopdeqiwjdoqi.okatestoka.ir&type=httpupgrade#%F0%9F%94%AETelegram%3D%20t.me%2FproSSH
-vless://2c8aaf87-b1e3-4fc6-915b-0e48a26b1cd6@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#
-vless://0788f940-bc79-4438-9553-ac469844469d@test.fast.hosting-ip.com:80?mode=auto&security=none&encryption=none&type=xhttp#
-vless://8c17092b-4d89-44e3-9dcb-a00c2bf28827@104.17.119.85:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=aymng.bahareh.dpdns.org&type=ws#
