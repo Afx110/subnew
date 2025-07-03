@@ -126,3 +126,22 @@ vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#create_your_bot
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#create_your_bot
 vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@161.145.150.13:8880?type=ws&host=c.82313369.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#%E2%9C%A8%20@v2ray_0_confing%20%7C%20%F0%9F%9A%80%20%7C%20%F0%9F%8C%90%20161.145.150.13%20%7C%20US
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.189.29:8880?security=none&encryption=none&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🇬🇧GB | 🔴 | vless | @redfree8 | 1
+vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?encryption=none&security=tls&sni=GrOupYOUNeS.PAGes.DEV&type=ws&host=GrOupYOUNeS.PAGes.DEV&path=/Telegram@V2ray_Alpha/?ed=2560#🇺🇸US | 🔴 | vless | @DeamNet_Proxy | 0
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@102.177.176.213:8880?security=none&encryption=none&type=ws&host=jp.laoyoutiao.link&path=/#🇩🇪DE | 🔴 | vless | @redfree8 | 0
+vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@104.18.13.51:2087?path=/?ed=2560&security=tls&encryption=none&host=a.xiazitong.zone.id&fp=randomized&type=ws&sni=a.xiazitong.zone.id#🇺🇸US | 🔴 | vless | @vmessorg | 1
+vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.16.135:80?path=/?ed=2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&type=ws#🇺🇸US | 🔴 | vless | @Outline_Vpn | 0
+vless://c3c19bdf-2eff-49e0-9746-4c98206a67b0@104.18.26.90:8443?path=/nQrQ1eTYHqjVOYx6?ed=2560&security=tls&alpn=http/1.1&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=s1.MitIvpN.wOrkeRs.dEv#🇺🇸US | 🔴 | vless | @TEHRANARGO | 0
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.57:80?encryption=none&security=none&type=ws&host=redfree8.pooriashop.ir&path=Telegram@ShadowProxy66 /?ed=2560#🇳🇱NL | 🔴 | vless | @DeamNet_Proxy | 6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a1.samanehha.co:443#🇬🇧GB | 🟢 | ss | @DeamNet_Proxy | 9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🇬🇧GB | 🟢 | ss | @meli_proxyy | 0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#🇺🇸US | 🟢 | ss | @DeamNet_Proxy | 11
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#🇺🇸US | 🟢 | ss | @ShadowProxy66 | 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5TVg5V0dQZ1VFY1JabWxhYTBZSEhD@103.106.1.92:23492#🇳🇱NL | 🟢 | ss | @meli_proxyy | 9
+trojan://telegram-id-directvpn@13.39.202.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR | 🟢 | trojan | @DirectVPN | 0
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🇩🇪DE | 🟢 | vless | @meli_proxyy | 7
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=zula.ir&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @TEHRANARGO | 6
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir/?TELEGRAM@JOKERRVPN&headerType=http&type=tcp#🇩🇪DE | 🔴 | vless | @vmessorg | 2
+vless://15398933-070d-4ea2-9697-5fcd79793c97@91.99.54.106:443?security=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪DE | 🟢 | vless | @TEHRANARGO | 2
+vless://bd41a471-ee04-4f88-85d0-83fa3de57253@dev.loadbalance.iranstars-shop.ir:2689?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🇩🇪DE | 🔴 | vless | @meli_proxyy | 2
+trojan://telegram-id-directvpn@3.126.94.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪DE | 🟢 | trojan | @DirectVPN | 2
