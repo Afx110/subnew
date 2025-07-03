@@ -36,20 +36,7 @@ vless://db9d419e-3094-4942-9313-d39afd3dd163@104.21.113.6:80?path=%2FTELEGRAM-Ya
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FTelegram%40Filter_breaker%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TITanTabLOmaNAHaMRaH.IR
 vless://704198c4-37b9-473d-a5de-0333276f2f6c@104.17.148.22:2053?path=%2FTelegram%40Filter_breaker&security=tls&encryption=none&alpn=http/1.1&host=mahsa2.cfform.site&fp=randomized&type=ws&sni=maHsA2.cFFoRM.sIte
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#
-vless://e9e989d6-baae-79fc-8c05-bdc55058f4bf@u15-unlim.standalonemsnew.cam:587?security=none&encryption=none&type=ws&sni=1#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#
-vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@104.16.150.12:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@admin.c1.webramz.co:443#%F0%9F%8C%80Telegram%3D%20%40vaslvip%20%F0%9F%8C%80
 vless://f78ce1bb-0fa6-4ef4-b4c9-b91014a7055d@www.speedtest.net:80?host=delam.ahaysiahzangi.dpdns.org&type=ws&security=none&path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&encryption=none#وصل شدی به 
-vless://5dc80f12-f28f-4325-98d3-54130b068752@hub.document.lat:80?mode=auto&path=%2F%3Fed%3D2560&security=none&encryption=none&host=thkhlppnb-name.global.ssl.fastly.net.&type=xhttp#%40VConfing
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWHlHUlRkeU8wbjZ4Y0dt@admin.c2.havij.co:443#S1
-vless://b28eb861-1748-4200-ba72-278669edc33b@172.67.252.98:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#S2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#S3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDelEwSXJrZGQ0V0RVd0JR@admin.c4.havij.co:443#S4
-vless://b28eb861-1748-4200-ba72-278669edc33b@104.16.6.169:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=coco.mahmoodchitooz.dpdns.org&fp=random&type=ws&sni=coco.mahmoodchitooz.dpdns.org#S5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#S6
-vless://turboo-server@turbooserver.ultra-irancell.com:65000?security=reality&encryption=none&pbk=paXwzQ6qDGHFfMlpY1vX6-lZrkI2gUzP3nXg91ZrBQw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=0efa0583a943#S7
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2FJOKERRVPNJoin_Bade_Channel%40Filter_breaker%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&fp=chrome&type=ws#S8
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpns_land%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%9B%B8
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.206.230:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray_0_confing
