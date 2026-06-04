@@ -1,6 +1,7 @@
-vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.102.126:443?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=536fb8a635fb04d5&sni=www.icloud.com&spx=%2FzeRKAufAVh668Gv&type=tcp#IRANFREE%20-mgrw5v6250
-vless://e828668d-ae76-4f33-896b-c38db9e95d78@172.238.102.126:2053?encryption=none&fp=chrome&pbk=3Qzlh66qwzaKMNsPwH-pT_UpYifb_4y3uDnHNKVPiVU&security=reality&sid=d3&sni=www.nvidia.com&spx=%2FC2GdAXikwwciW8R&type=tcp#IRANFREE2-42pi4h9tmq
-vless://8f0a187f-305c-473d-b06e-f0a221fae3db@172.238.102.126:2083?encryption=none&fp=chrome&pbk=_5CwcGaesfOclcqf69kPpXCTlObnVD9atYVNgPcCX2s&security=reality&sid=f1&sni=www.sony.com&spx=%2FRF8IEsFoYdkbLjH&type=tcp#IRANFREE3-g07npv020b
+vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.102.126:443?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=10373a4248b893&sni=www.icloud.com&spx=%2FzseHF44qcfBg8OJ&type=tcp#IRANFREE%20-mgrw5v6250
+vless://e828668d-ae76-4f33-896b-c38db9e95d78@172.238.102.126:2053?encryption=none&fp=chrome&pbk=3Qzlh66qwzaKMNsPwH-pT_UpYifb_4y3uDnHNKVPiVU&security=reality&sid=09d2&sni=www.nvidia.com&spx=%2FnPyIx9YqAqA5eeW&type=tcp#IRANFREE2-42pi4h9tmq
+vless://8f0a187f-305c-473d-b06e-f0a221fae3db@172.238.102.126:2083?encryption=none&fp=chrome&pbk=_5CwcGaesfOclcqf69kPpXCTlObnVD9atYVNgPcCX2s&security=reality&sid=84bd649fe2a3&sni=www.sony.com&spx=%2FWVQieVFkVVBwVEr&type=tcp#IRANFREE3-g07npv020b
+
 
 vless://5e5608a2-9893-4eaa-b90a-e202bacef5b6@45.130.125.190:443?mode=auto&path=%2Fkir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=cdn.safev2ray.store&fp=chrome&type=xhttp&sni=cdn.safev2ray.store#%40internet_azad_2026%20%D8%AA%D8%B3%D8%AA%20%D8%B4%D8%AF%D9%87%20%D8%A8%D8%A7%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%40Y2kNistaM%20%F0%9F%A7%9A%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F
