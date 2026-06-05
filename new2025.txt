@@ -1,7 +1,6 @@
-vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.102.126:443?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=10373a4248b893&sni=www.icloud.com&spx=%2FzseHF44qcfBg8OJ&type=tcp#IRANFREE%20-mgrw5v6250
+vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.102.126:8443?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=10373a4248b893&sni=www.icloud.com&spx=%2FzseHF44qcfBg8OJ&type=tcp#IRANFREE%20-mgrw5v6250
 vless://e828668d-ae76-4f33-896b-c38db9e95d78@172.238.102.126:2053?encryption=none&fp=chrome&pbk=3Qzlh66qwzaKMNsPwH-pT_UpYifb_4y3uDnHNKVPiVU&security=reality&sid=09d2&sni=www.nvidia.com&spx=%2FnPyIx9YqAqA5eeW&type=tcp#IRANFREE2-42pi4h9tmq
 vless://8f0a187f-305c-473d-b06e-f0a221fae3db@172.238.102.126:2083?encryption=none&fp=chrome&pbk=_5CwcGaesfOclcqf69kPpXCTlObnVD9atYVNgPcCX2s&security=reality&sid=84bd649fe2a3&sni=www.sony.com&spx=%2FWVQieVFkVVBwVEr&type=tcp#IRANFREE3-g07npv020b
-vless://b1a83957-d883-4978-bdb3-109da06c8a5b@172.238.102.126:8443?encryption=none&fp=chrome&pbk=iTJuTJHOlvJFMpVbKZXI1ENZNS0GG90-rGpX0SVkrhI&security=reality&sid=c3be76cd6cd4b1&sni=hcaptcha.com&spx=%2FrhzD4Th4U0xCSi9&type=tcp#IRANFREE4-m4lc99emge
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#%40Y2kNistaM%20%F0%9F%A7%9A%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de1.fromblancwithlove.com#%40Y2kNistaM%20%F0%9F%92%8C
