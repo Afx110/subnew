@@ -110,6 +110,7 @@ vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:993?security=reality&
 vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:443?security=reality&type=xhttp&path=%2F&sni=speed.cloudflare.com&fp=firefox&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#8
 vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.8:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=dl.google.com&fp=firefox&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04#9
 vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.169.7:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI#10
-
-
-
+vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=speed.cloudflare.com&fp=firefox&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#11
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#12
+vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=download.nvidia.com&fp=firefox&pbk=SkPIAkSI8R1LY1hynsZZcxKkPmJKU11DAMncccLEdjI#13
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.243.8:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=cdn.steamstatic.com&fp=firefox&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc#14
