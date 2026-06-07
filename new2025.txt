@@ -1,4 +1,4 @@
-vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.115.17:8443?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=6f62&sni=dl.google.com&spx=%2FdDGq4B939nXrTyi&type=tcp#IRANFREE1-Reality1
+vless://be5931c2-8f6a-418e-acff-5419108aad69@172.238.115.17:23825?encryption=none&fp=chrome&pbk=kWzfnE0oSoYCzGdQpSRE-oZB3fCurkX-3KjUGWFSXhs&security=reality&sid=6a1c09&sni=dns.google.com&spx=%2FHrR0ExrTdmUSIjr&type=tcp#IRANFREE1-Reality1
 vless://e828668d-ae76-4f33-896b-c38db9e95d78@172.238.115.17:2053?encryption=none&fp=chrome&pbk=3Qzlh66qwzaKMNsPwH-pT_UpYifb_4y3uDnHNKVPiVU&security=reality&sid=d3&sni=www.nvidia.com&spx=%2F1heJsOLf5T607Zb&type=tcp#IRANFREE2-Reality2
 vless://8f0a187f-305c-473d-b06e-f0a221fae3db@172.238.115.17:2083?encryption=none&fp=chrome&pbk=_5CwcGaesfOclcqf69kPpXCTlObnVD9atYVNgPcCX2s&security=reality&sid=2930&sni=www.oracle.com&spx=%2FDgLoQ1HYQSoyxfD&type=tcp#IRANFREE3-Reality3
 vless://198d0ffe-e1bb-4d1f-9d6d-46acf6fa9500@172.238.115.17:50093?encryption=none&fp=firefox&pbk=XZGmOarBs0grlh-P60fuuhYbesMwPGS83B-XHP4tRXg&security=reality&sid=1ea68a&sni=hcaptcha.com&spx=%2F85OQ4vLfa4JYjj8&type=tcp#IRANFREE7-Reality4
