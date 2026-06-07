@@ -100,5 +100,9 @@ vless://ef366c35-d670-4b4b-ac4c-85a12c644c86@141.101.120.234:443?alpn=h2%2Chttp%
 vless://1167cd6e-9ae1-42e3-ac40-3ad8d431a004@141.101.120.7:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-500%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-500#IRANFREECDN95
 vless://1167cd6e-9ae1-42e3-ac40-3ad8d431a004@172.67.251.99:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-500%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-500#IRANFREECDN96
 
-
-
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:443?security=reality&type=xhttp&path=%2F&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#1
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:443?security=reality&type=xhttp&path=%2F&sni=res.cdn.office.net&fp=firefox&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo#2
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:443?security=reality&type=xhttp&path=%2F&sni=download.nvidia.com&fp=firefox&pbk=mdN58_sSqP17lYoc-cWvIgtHjzb8vlqJv5t24Y9Bnic#3
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com&fp=firefox&pbk=fp2XmT8otUDkl65Df2h1b5b0oCe0CQiAimPKEMdnwmI#4
+vless://82162b75-5d5b-f8ec-896a-813170210c26@140.235.168.3:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=firefox&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko#5
+vless://82162b75-5d5b-f8ec-896a-813170210c26@104.245.242.4:993?security=reality&type=tcp&flow=xtls-rprx-vision&sni=res.cdn.office.net&fp=firefox&pbk=_pfnx4mNda47T7Hyi_tNfnSXzL9fL4EKQWNu31NSkmo#6
