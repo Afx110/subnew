@@ -1,5 +1,4 @@
-vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=www.kernel.org&spx=%2FKjbAcpeHU4SIeDG&type=tcp#Pro-Reality01
-vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=git.kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Pro-Reality02
+
 
 hysteria2://8zqqxxhd0eect87a@104.105.26.173:2087?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22eol07w0gpyoq5dbf%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=eol07w0gpyoq5dbf&security=tls&sni=atlir2026.wordfreetop.com#FREE2YOU01-H2-10GB
 hysteria2://eilo4bza0oaxi07u@104.105.26.173:8443?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22fx1waoeloi6r06k6%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=firefox&obfs=salamander&obfs-password=fx1waoeloi6r06k6&security=tls&sni=h2atlir2020.wordfreetop.com#FREE2YOU02-H3-10GB
@@ -19,6 +18,12 @@ vless://be83ced3-f946-4758-911b-e209c726391c@162.159.241.153:2053?alpn=h2&encryp
 vless://be83ced3-f946-4758-911b-e209c726391c@198.41.208.120:2053?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-1000#IRANFREECDN07
 vless://be83ced3-f946-4758-911b-e209c726391c@188.114.96.2:2053?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-1000#IRANFREECDN08
 vless://be83ced3-f946-4758-911b-e209c726391c@104.19.42.124:2053?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-1000#IRANFREECDN09
+
+#Reality
+
+vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=www.kernel.org&spx=%2FKjbAcpeHU4SIeDG&type=tcp#Pro-Reality01
+vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=git.kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Pro-Reality02
+
 
 vless://1e405815-4c78-4967-8f07-1e73270056ae@104.17.107.139:2053?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-1000#IRANFREECDN9
 vless://1e405815-4c78-4967-8f07-1e73270056ae@188.114.99.0:2053?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=free21free.olpploiopkuyhiopsfrt.info&mode=auto&path=%2Fapi%2Fv2%2Fstream&security=tls&sni=free21free.olpploiopkuyhiopsfrt.info&type=xhttp&x_padding_bytes=100-1000#IRANFREECDN10
