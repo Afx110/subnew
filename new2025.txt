@@ -34,6 +34,7 @@ vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&
 vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=cdn.kernel.org&spx=%2FKjbAcpeHU4SIeDG&type=tcp#Reality02
 vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=cdn.kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Reality03
 vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Reality04
+
 #hysteria2
 
 hysteria2://8zqqxxhd0eect87a@104.105.26.173:2087?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22eol07w0gpyoq5dbf%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=eol07w0gpyoq5dbf&security=tls&sni=atlir2026.wordfreetop.com#Hysteria2-H2
@@ -99,6 +100,13 @@ vless://58350a5f-96da-47e4-9eab-6250226a8c0d@198.41.206.249:8443?alpn=h2&encrypt
 vless://58350a5f-96da-47e4-9eab-6250226a8c0d@45.80.111.247:8443?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=h2.trusty4youandformeandto.com&mode=auto&path=%2Fcdn%2Fv2%2Fmedia&security=tls&sni=h2.trusty4youandformeandto.com&type=xhttp&x_padding_bytes=100-1000#📶🌐CDN080
 vless://58350a5f-96da-47e4-9eab-6250226a8c0d@104.27.26.5:8443?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=h2.trusty4youandformeandto.com&mode=auto&path=%2Fcdn%2Fv2%2Fmedia&security=tls&sni=h2.trusty4youandformeandto.com&type=xhttp&x_padding_bytes=100-1000#CDN081
 vless://58350a5f-96da-47e4-9eab-6250226a8c0d@104.16.2.12:8443?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=h2.trusty4youandformeandto.com&mode=auto&path=%2Fcdn%2Fv2%2Fmedia&security=tls&sni=h2.trusty4youandformeandto.com&type=xhttp&x_padding_bytes=100-1000#CDN082
+
+#XhttpReality
+
+vless://31baf21a-453b-43f5-b4da-bc4ae4c25d59@104.105.26.173:2052?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fapi&pbk=Oc9XE3C8GplOt71bL4a7NUqlAxuSjdPtdmHXl0iLKHA&security=reality&sid=777ad3a20097&sni=cdn.samsung.com&spx=%2F4E655Sxtt4fCNxr&type=xhttp&x_padding_bytes=100-1000#Pro%3DXhttp-Reality1
+vless://31baf21a-453b-43f5-b4da-bc4ae4c25d59@104.105.26.173:2052?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fapi&pbk=Oc9XE3C8GplOt71bL4a7NUqlAxuSjdPtdmHXl0iLKHA&security=reality&sid=048b71&sni=image.samsung.com&spx=%2F4E655Sxtt4fCNxr&type=xhttp&x_padding_bytes=100-1000#Pro%3DXhttp-Reality2
+vless://31baf21a-453b-43f5-b4da-bc4ae4c25d59@104.105.26.173:2052?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fapi&pbk=Oc9XE3C8GplOt71bL4a7NUqlAxuSjdPtdmHXl0iLKHA&security=reality&sid=4ed9&sni=samsung.com&spx=%2F4E655Sxtt4fCNxr&type=xhttp&x_padding_bytes=100-1000#Pro%3DXhttp-Reality3
+
 
 vless://602e8e0a-8334-4e23-a5e8-bdb089656236@88.216.67.125:2083?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=h2.trusty4youandformeandto.com&mode=auto&path=%2Fcdn%2Fv2%2Fmedia&security=tls&sni=h2.trusty4youandformeandto.com&type=xhttp&x_padding_bytes=100-1000#CDN083
 vless://602e8e0a-8334-4e23-a5e8-bdb089656236@45.131.209.85:2083?alpn=h2&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=firefox&host=h2.trusty4youandformeandto.com&mode=auto&path=%2Fcdn%2Fv2%2Fmedia&security=tls&sni=h2.trusty4youandformeandto.com&type=xhttp&x_padding_bytes=100-1000#CDN084
