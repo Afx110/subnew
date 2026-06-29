@@ -39,7 +39,7 @@ vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&
 #hysteria2
 
 hysteria2://8zqqxxhd0eect87a@104.105.26.173:2087?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22eol07w0gpyoq5dbf%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=eol07w0gpyoq5dbf&security=tls&sni=atlir2026.wordfreetop.com#Hysteria2-H2
-hysteria2://eilo4bza0oaxi07u@104.105.26.173:8443?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22fx1waoeloi6r06k6%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=firefox&obfs=salamander&obfs-password=fx1waoeloi6r06k6&security=tls&sni=h2atlir2020.wordfreetop.com#Hysteria2-H3
+hysteria2://eilo4bza0oaxi07u@104.105.26.173:2096?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22fx1waoeloi6r06k6%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=firefox&obfs=salamander&obfs-password=fx1waoeloi6r06k6&security=tls&sni=h2atlir2020.wordfreetop.com#Hysteria2-H3
 hysteria2://wq0tsrggbwi7e9e2@104.105.26.173:2053?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22fx1waoeloi6r06k6%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=firefox&obfs=salamander&obfs-password=fx1waoeloi6r06k6&security=tls&sni=h2atlir2020.wordfreetop.com#Hysteria2-H4
 hysteria2://1qh1jo0eifloqsm4@104.105.26.173:2083?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%225l6m77dsjrg9ig50%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=5l6m77dsjrg9ig50&security=tls&sni=atlir2026.wordfreetop.com#Hysteria2-H1
 
