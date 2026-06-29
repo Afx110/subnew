@@ -31,8 +31,9 @@ vless://1e405815-4c78-4967-8f07-1e73270056ae@185.162.228.79:2053?alpn=h2&encrypt
 #Reality
 
 vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=www.kernel.org&spx=%2FKjbAcpeHU4SIeDG&type=tcp#Reality01
-vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=git.kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Reality02
-
+vless://c24de7e9-c78f-4928-8f65-6cefea232366@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=cdn.kernel.org&spx=%2FKjbAcpeHU4SIeDG&type=tcp#Reality02
+vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=cdn.kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Reality03
+vless://4c9f8b96-d8fb-471f-ac9f-4c3cf3ef2035@104.105.26.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tOtMwXWyZUnDSyqLSC2hw8SNWTkgW-A4yh34UjpzSDg&security=reality&sid=bce435&sni=kernel.org&spx=%2Fn8oA5X2CbliTJyM&type=tcp#Reality04
 #hysteria2
 
 hysteria2://8zqqxxhd0eect87a@104.105.26.173:2087?alpn=h3&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22eol07w0gpyoq5dbf%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&fp=chrome&obfs=salamander&obfs-password=eol07w0gpyoq5dbf&security=tls&sni=atlir2026.wordfreetop.com#Hysteria2-H2
