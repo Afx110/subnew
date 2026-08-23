@@ -1,1 +1,3270 @@
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: true
+proxies:
+- name: 📶🌐CDN001
+  type: vless
+  server: 45.80.111.231
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN002
+  type: vless
+  server: 45.80.111.52
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN003
+  type: vless
+  server: 45.80.111.144
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN004
+  type: vless
+  server: 45.80.111.161
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN005
+  type: vless
+  server: 45.80.111.231
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN006
+  type: vless
+  server: 45.80.111.238
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN007
+  type: vless
+  server: 45.131.7.11
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN008
+  type: vless
+  server: 45.131.7.12
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN009
+  type: vless
+  server: 45.131.7.18
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN010
+  type: vless
+  server: 45.131.7.159
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN011
+  type: vless
+  server: 45.131.7.165
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN012
+  type: vless
+  server: 45.131.7.170
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN013
+  type: vless
+  server: 188.244.122.147
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN014
+  type: vless
+  server: 45.131.7.172
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN015
+  type: vless
+  server: 45.131.7.197
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN016
+  type: vless
+  server: 45.131.7.213
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN017
+  type: vless
+  server: 45.131.7.224
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN018
+  type: vless
+  server: 45.131.7.242
+  port: 2053
+  uuid: 1e405815-4c78-4967-8f07-1e73270056ae
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN019
+  type: vless
+  server: 45.131.7.247
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN020
+  type: vless
+  server: 92.53.189.94
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN021
+  type: vless
+  server: 104.16.14.59
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN022
+  type: vless
+  server: 104.16.95.5
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN023
+  type: vless
+  server: 104.16.109.19
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN024
+  type: vless
+  server: 188.244.122.38
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN025
+  type: vless
+  server: 104.16.110.53
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN026
+  type: vless
+  server: 104.16.112.203
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN027
+  type: vless
+  server: 104.16.134.20
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN028
+  type: vless
+  server: 104.16.134.26
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN029
+  type: vless
+  server: 104.16.134.34
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN030
+  type: vless
+  server: 45.80.111.179
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN031
+  type: vless
+  server: 104.16.134.39
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN032
+  type: vless
+  server: 104.16.134.46
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN033
+  type: vless
+  server: 104.16.144.241
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN034
+  type: vless
+  server: 104.16.145.62
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN035
+  type: vless
+  server: 104.16.174.12
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN036
+  type: vless
+  server: 104.16.174.121
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN037
+  type: vless
+  server: 104.16.192.184
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN038
+  type: vless
+  server: 104.16.242.93
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN039
+  type: vless
+  server: 104.17.28.11
+  port: 2096
+  uuid: 53b3fcc6-a38c-4b74-b1e9-3710bf5dc05d
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN040
+  type: vless
+  server: 104.17.77.71
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN041
+  type: vless
+  server: 104.17.103.240
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN042
+  type: vless
+  server: 104.17.116.235
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN043
+  type: vless
+  server: 188.244.122.193
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN044
+  type: vless
+  server: 104.17.144.198
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN045
+  type: vless
+  server: 104.17.147.22
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN046
+  type: vless
+  server: 104.17.193.96
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN047
+  type: vless
+  server: 104.18.16.56
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN048
+  type: vless
+  server: 104.18.53.49
+  port: 8443
+  uuid: 47291692-a740-475f-984b-0e84f20d1d87
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN049
+  type: vless
+  server: 104.18.67.18
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN050
+  type: vless
+  server: 188.244.122.94
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN051
+  type: vless
+  server: 104.18.67.19
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN052
+  type: vless
+  server: 104.18.67.88
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN053
+  type: vless
+  server: 104.18.67.96
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN054
+  type: vless
+  server: 104.18.67.107
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN055
+  type: vless
+  server: 104.18.67.108
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN056
+  type: vless
+  server: 104.18.67.220
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN057
+  type: vless
+  server: 104.18.67.252
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN058
+  type: vless
+  server: 45.80.111.52
+  port: 8443
+  uuid: 58350a5f-96da-47e4-9eab-6250226a8c0d
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN059
+  type: vless
+  server: 104.18.67.253
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN060
+  type: vless
+  server: 104.18.68.78
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN061
+  type: vless
+  server: 104.18.96.181
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN062
+  type: vless
+  server: 104.18.110.91
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN063
+  type: vless
+  server: 104.18.122.66
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN064
+  type: vless
+  server: 45.80.111.92
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN065
+  type: vless
+  server: 104.18.128.1
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN066
+  type: vless
+  server: 104.18.128.218
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN067
+  type: vless
+  server: 104.18.152.225
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN068
+  type: vless
+  server: 104.18.167.128
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN069
+  type: vless
+  server: 188.244.122.93
+  port: 2083
+  uuid: 602e8e0a-8334-4e23-a5e8-bdb089656236
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN070
+  type: vless
+  server: 104.18.170.222
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN071
+  type: vless
+  server: 104.18.171.101
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN072
+  type: vless
+  server: 104.18.172.47
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN073
+  type: vless
+  server: 104.18.173.116
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN074
+  type: vless
+  server: 104.18.218.145
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN075
+  type: vless
+  server: 104.19.131.188
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN076
+  type: vless
+  server: 104.19.154.34
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN077
+  type: vless
+  server: 104.19.189.110
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN078
+  type: vless
+  server: 104.19.242.92
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN079
+  type: vless
+  server: 188.244.122.60
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN080
+  type: vless
+  server: 104.20.2.22
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN081
+  type: vless
+  server: 104.20.2.43
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN082
+  type: vless
+  server: 104.20.2.69
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN083
+  type: vless
+  server: 104.20.2.117
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN084
+  type: vless
+  server: 104.20.2.125
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN085
+  type: vless
+  server: 104.20.2.136
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN086
+  type: vless
+  server: 45.80.111.102
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN087
+  type: vless
+  server: 45.80.111.116
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN088
+  type: vless
+  server: 104.20.2.155
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN089
+  type: vless
+  server: 104.20.2.170
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN090
+  type: vless
+  server: 104.20.2.175
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN091
+  type: vless
+  server: 104.20.15.47
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN092
+  type: vless
+  server: 104.21.81.87
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN093
+  type: vless
+  server: 104.21.86.123
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN094
+  type: vless
+  server: 104.21.88.197
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN095
+  type: vless
+  server: 104.24.184.121
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN096
+  type: vless
+  server: 104.24.188.218
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN097
+  type: vless
+  server: 104.25.113.21
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN098
+  type: vless
+  server: 104.25.152.185
+  port: 2087
+  uuid: 435f616f-02bb-4319-9505-b9ba927290fe
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN099
+  type: vless
+  server: 104.25.152.188
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN100
+  type: vless
+  server: 104.25.152.189
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN101
+  type: vless
+  server: 104.25.152.191
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN102
+  type: vless
+  server: 104.25.152.193
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN103
+  type: vless
+  server: 104.25.152.194
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN104
+  type: vless
+  server: 104.25.210.160
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN105
+  type: vless
+  server: 104.26.5.45
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN106
+  type: vless
+  server: 104.26.12.156
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN107
+  type: vless
+  server: 104.27.45.188
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN108
+  type: vless
+  server: 104.27.66.250
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN109
+  type: vless
+  server: 104.27.86.22
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN110
+  type: vless
+  server: 104.27.106.15
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN111
+  type: vless
+  server: 141.193.213.24
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN112
+  type: vless
+  server: 141.193.213.50
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN113
+  type: vless
+  server: 141.193.213.63
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN114
+  type: vless
+  server: 45.131.7.59
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN115
+  type: vless
+  server: 45.131.7.97
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN116
+  type: vless
+  server: 45.131.7.125
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN117
+  type: vless
+  server: 141.193.213.75
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN118
+  type: vless
+  server: 141.193.213.77
+  port: 2053
+  uuid: be83ced3-f946-4758-911b-e209c726391c
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN119
+  type: vless
+  server: 141.193.213.89
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN120
+  type: vless
+  server: 141.193.213.90
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN121
+  type: vless
+  server: 141.193.213.92
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN122
+  type: vless
+  server: 141.193.213.135
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN123
+  type: vless
+  server: 141.193.213.197
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN124
+  type: vless
+  server: 141.193.213.200
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN125
+  type: vless
+  server: 141.193.213.230
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN126
+  type: vless
+  server: 141.193.213.245
+  port: 2096
+  uuid: 801c09fd-0d14-4dc1-86a0-db4bff5f72bc
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN127
+  type: vless
+  server: 162.159.60.199
+  port: 2053
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN128
+  type: vless
+  server: 162.159.128.66
+  port: 2053
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN129
+  type: vless
+  server: 162.159.244.107
+  port: 2053
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🛜🌐CDN130
+  type: vless
+  server: 172.64.145.99
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN131
+  type: vless
+  server: 172.66.215.158
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN132
+  type: vless
+  server: 172.67.149.60
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN133
+  type: vless
+  server: 172.67.205.90
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN134
+  type: vless
+  server: 172.67.223.59
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN135
+  type: vless
+  server: 45.80.111.185
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN136
+  type: vless
+  server: 45.80.111.200
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN137
+  type: vless
+  server: 172.67.227.51
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN138
+  type: vless
+  server: 172.67.249.10
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN139
+  type: vless
+  server: 172.67.249.18
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📶🌐CDN140
+  type: vless
+  server: 45.131.7.41
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN141
+  type: vless
+  server: 45.131.7.53
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN142
+  type: vless
+  server: 45.131.7.155
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN143
+  type: vless
+  server: 172.67.249.25
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN144
+  type: vless
+  server: 172.67.249.31
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN145
+  type: vless
+  server: 172.67.249.32
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN146
+  type: vless
+  server: 172.67.249.39
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN147
+  type: vless
+  server: 172.67.249.46
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN148
+  type: vless
+  server: 185.135.9.139
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN149
+  type: vless
+  server: 185.135.9.207
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN150
+  type: vless
+  server: 188.114.96.43
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN151
+  type: vless
+  server: 188.114.97.7
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN152
+  type: vless
+  server: 188.114.98.57
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN153
+  type: vless
+  server: 188.114.99.133
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN154
+  type: vless
+  server: 188.244.122.23
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN155
+  type: vless
+  server: 188.244.122.24
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN156
+  type: vless
+  server: 188.244.122.28
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN157
+  type: vless
+  server: 188.244.122.57
+  port: 443
+  uuid: 335e85be-bc81-4244-b3bf-043eac621062
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN158
+  type: vless
+  server: 188.244.122.97
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN159
+  type: vless
+  server: 188.244.122.102
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN160
+  type: vless
+  server: 188.244.122.111
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN161
+  type: vless
+  server: 188.244.122.129
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN162
+  type: vless
+  server: 188.244.122.172
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: CDN163
+  type: vless
+  server: 188.244.122.199
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 🍺🍺 CDN164 🍺🍺
+  type: vless
+  server: 188.244.122.245
+  port: 443
+  uuid: 647b4505-5549-4da6-b7e8-29df4df342de
+  udp: true
+  tls: true
+  servername:
+  - malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v1/cdn
+    host: malekhartoaaakhund.kirpeople2sepahkosnaneh.org
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-01
+  type: vless
+  server: 2606:4700:9ad1:f7ae:f0cd:9993:f5:20e8
+  port: 2053
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-02
+  type: vless
+  server: 2606:4700:9add:8797:568b:f421:b6a0:a478
+  port: 2096
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-03
+  type: vless
+  server: 2606:4700:8d9b:b06:2421:243c:8118:7b61
+  port: 2053
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - kosnaneaakhund.kirpeople2sepahkosnaneh.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/cdn
+    host: kosnaneaakhund.kirpeople2sepahkosnaneh.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-04
+  type: vless
+  server: 2606:4700:440c:7706:feef:5145:4e54:6f34
+  port: 443
+  uuid: 0c784107-cd05-47e8-9281-c9cba047ea89
+  udp: true
+  tls: true
+  servername:
+  - web.studioatlaiouaetopten.info
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v1/media
+    host: web.studioatlaiouaetopten.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-05
+  type: vless
+  server: 2606:4700:3006:9cac:82ae:6be2:6c0e:24a0
+  port: 8443
+  uuid: 1b7a75a2-b43c-4daa-9b4d-41487826b4ce
+  udp: true
+  tls: true
+  servername:
+  - api-v2.wordfreetop.com
+  client-fingerprint: chrome
+  network: xhttp
+  xhttp-opts:
+    path: /cdn/v2/media
+    host: api-v2.wordfreetop.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-06
+  type: vless
+  server: 2606:4700:8d9b:b56:91c2:2eb9:c6c3:e0e2
+  port: 2083
+  uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
+  udp: true
+  tls: true
+  servername:
+  - nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /images/avatar/load
+    host: nanegaeidamakhond.kirpeople2sepahkosnaneh.info
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+- name: 📡IPV6-07
+  type: vless
+  server: 2606:4700:17:e07f:f302:5b95:c041:61d7
+  port: 2087
+  uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
+  udp: true
+  tls: true
+  servername:
+  - api.trusty4youandformeandto.com
+  client-fingerprint: firefox
+  network: xhttp
+  xhttp-opts:
+    path: /api/v2/stream/
+    host: api.trusty4youandformeandto.com
+    mode: auto
+    x-padding-bytes: 100-1000
+  alpn:
+  - h2
+proxy-groups:
+- name: LOAD-BALANCE
+  type: load-balance
+  proxies:
+  - 📶🌐CDN001
+  - CDN002
+  - CDN003
+  - CDN004
+  - CDN005
+  - CDN006
+  - CDN007
+  - CDN008
+  - CDN009
+  - 🛜🌐CDN010
+  - CDN011
+  - CDN012
+  - CDN013
+  - CDN014
+  - CDN015
+  - CDN016
+  - CDN017
+  - CDN018
+  - CDN019
+  - 📶🌐CDN020
+  - CDN021
+  - CDN022
+  - CDN023
+  - CDN024
+  - CDN025
+  - CDN026
+  - CDN027
+  - CDN028
+  - CDN029
+  - 🛜🌐CDN030
+  - CDN031
+  - CDN032
+  - CDN033
+  - CDN034
+  - CDN035
+  - CDN036
+  - CDN037
+  - CDN038
+  - CDN039
+  - 📶🌐CDN040
+  - CDN041
+  - CDN042
+  - CDN043
+  - CDN044
+  - CDN045
+  - CDN046
+  - CDN047
+  - CDN048
+  - CDN049
+  - 🛜🌐CDN050
+  - CDN051
+  - CDN052
+  - CDN053
+  - CDN054
+  - CDN055
+  - CDN056
+  - CDN057
+  - CDN058
+  - CDN059
+  - 📶🌐CDN060
+  - CDN061
+  - CDN062
+  - CDN063
+  - CDN064
+  - CDN065
+  - CDN066
+  - CDN067
+  - CDN068
+  - CDN069
+  - 🛜🌐CDN070
+  - CDN071
+  - CDN072
+  - CDN073
+  - CDN074
+  - CDN075
+  - CDN076
+  - CDN077
+  - CDN078
+  - CDN079
+  - 📶🌐CDN080
+  - CDN081
+  - CDN082
+  - CDN083
+  - CDN084
+  - CDN085
+  - CDN086
+  - CDN087
+  - CDN088
+  - CDN089
+  - 🛜🌐CDN090
+  - CDN091
+  - CDN092
+  - CDN093
+  - CDN094
+  - CDN095
+  - CDN096
+  - CDN097
+  - CDN098
+  - CDN099
+  - 📶🌐CDN100
+  - CDN101
+  - CDN102
+  - CDN103
+  - CDN104
+  - CDN105
+  - CDN106
+  - CDN107
+  - CDN108
+  - CDN109
+  - 🛜🌐CDN110
+  - CDN111
+  - CDN112
+  - CDN113
+  - CDN114
+  - CDN115
+  - CDN116
+  - CDN117
+  - CDN118
+  - CDN119
+  - 📶🌐CDN120
+  - CDN121
+  - CDN122
+  - CDN123
+  - CDN124
+  - CDN125
+  - CDN126
+  - CDN127
+  - CDN128
+  - CDN129
+  - 🛜🌐CDN130
+  - CDN131
+  - CDN132
+  - CDN133
+  - CDN134
+  - CDN135
+  - CDN136
+  - CDN137
+  - CDN138
+  - CDN139
+  - 📶🌐CDN140
+  - CDN141
+  - CDN142
+  - CDN143
+  - CDN144
+  - CDN145
+  - CDN146
+  - CDN147
+  - CDN148
+  - CDN149
+  - CDN150
+  - CDN151
+  - CDN152
+  - CDN153
+  - CDN154
+  - CDN155
+  - CDN156
+  - CDN157
+  - CDN158
+  - CDN159
+  - CDN160
+  - CDN161
+  - CDN162
+  - CDN163
+  - 🍺🍺 CDN164 🍺🍺
+  - 📡IPV6-01
+  - 📡IPV6-02
+  - 📡IPV6-03
+  - 📡IPV6-04
+  - 📡IPV6-05
+  - 📡IPV6-06
+  - 📡IPV6-07
+  url: https://www.gstatic.com/generate_204
+  interval: 300
+  strategy: round-robin
+- name: PROXY
+  type: select
+  proxies:
+  - LOAD-BALANCE
+  - DIRECT
+rules:
+- MATCH,PROXY
 
