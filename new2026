@@ -2879,7 +2879,7 @@ proxies:
   - h2
 - name: 📡IPV6-06
   type: vless
-  server: [2606:4700:8d9b:b56:91c2:2eb9:c6c3:e0e2]
+  server: 2606:4700:8d9b:b56:91c2:2eb9:c6c3:e0e2
   port: 2083
   uuid: a2e4a08e-7b85-47bb-8618-d5d6c3f743e3
   udp: true
@@ -2896,7 +2896,7 @@ proxies:
   - h2
 - name: 📡IPV6-07
   type: vless
-  server: [2606:4700:17:e07f:f302:5b95:c041:61d7]
+  server: 2606:4700:17:e07f:f302:5b95:c041:61d7
   port: 2087
   uuid: 666f8da2-d4fe-4192-94db-9c684e11ee79
   udp: true
