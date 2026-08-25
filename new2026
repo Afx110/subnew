@@ -1,7 +1,7 @@
 
 # Clash Verge / Mihomo
 # Generated completely offline
-# Unique VLESS proxies: 5
+# Unique VLESS proxies: 170
 
 mixed-port: 7897
 allow-lan: true
@@ -14,7 +14,7 @@ dns:
   ipv6: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-range-ipv6: fdfe:dcba:9876::1/64
+  fake-ip-range-ipv6: fd00::/8
   nameserver:
     - https://1.1.1.1/dns-query
     - https://8.8.8.8/dns-query
