@@ -1,39 +1,30 @@
-
-# Clash Verge / Mihomo
-# Generated completely offline
-# Unique VLESS proxies: 170
-
 mixed-port: 7897
 allow-lan: true
 mode: rule
 log-level: info
 ipv6: true
-
+external-controller: 127.0.0.1:9090
 dns:
   enable: true
   ipv6: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  fake-ip-range-ipv6: fd00::/8
+  respect-rules: true
   nameserver:
-    - https://1.1.1.1/dns-query
-    - https://8.8.8.8/dns-query
-    - https://[2606:4700:4700::1111]/dns-query
-    - https://[2001:4860:4860::8888]/dns-query
+  - https://1.1.1.1/dns-query
+  - https://8.8.8.8/dns-query
+  - https://[2606:4700:4700::1111]/dns-query
+  - https://[2001:4860:4860::8888]/dns-query
   direct-nameserver:
+  - 217.218.155.155
+  - 194.225.152.10
+  proxy-server-nameserver:
+  - https://1.1.1.1/dns-query
+  - https://8.8.8.8/dns-query
+  nameserver-policy:
+    '*.ir':
     - 217.218.155.155
     - 194.225.152.10
-  proxy-server-nameserver:
-    - https://1.1.1.1/dns-query
-    - https://8.8.8.8/dns-query
-  nameserver-policy:
-    '+.ir':
-      - 217.218.155.155
-      - 194.225.152.10
-    'geosite:private':
-      - 217.218.155.155
-      - 194.225.152.10
-
 proxies:
   - name: 'VLESS-001'
     type: vless
@@ -3112,15 +3103,16 @@ proxy-groups:
       - DIRECT
 
 rules:
-  - DOMAIN-SUFFIX,ir,DIRECT
-  - DOMAIN-SUFFIX,ac.ir,DIRECT
-  - DOMAIN-SUFFIX,gov.ir,DIRECT
-  - DOMAIN-SUFFIX,co.ir,DIRECT
-  - DOMAIN-SUFFIX,org.ir,DIRECT
-  - DOMAIN-SUFFIX,net.ir,DIRECT
-  - GEOIP,IR,DIRECT
-  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
-  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
-  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
-  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
-  - MATCH,PROXY
+- DOMAIN-SUFFIX,ir,DIRECT
+- DOMAIN-SUFFIX,ac.ir,DIRECT
+- DOMAIN-SUFFIX,gov.ir,DIRECT
+- DOMAIN-SUFFIX,co.ir,DIRECT
+- DOMAIN-SUFFIX,org.ir,DIRECT
+- DOMAIN-SUFFIX,net.ir,DIRECT
+- GEOIP,IR,DIRECT
+- IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+- IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+- IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+- MATCH,PROXY
+
